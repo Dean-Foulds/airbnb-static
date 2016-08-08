@@ -1,0 +1,27 @@
+seb:
+  owner_name: Sebastien Saunier
+  picture: http://www.99freeclick.com/Upload/big/1267442081_77342291_1-Pictures-of--1550sqt-3bhk-flat-for-sale-in-Sahakar-Nagar.jpg
+  owner_picture: images/seb.jpg
+  name: Seb's home
+  summary: Charming room in Montmartre
+  pond: false
+  city: Paris, France
+  wifi: true
+romain:
+  owner_name: Romain Paillard
+  picture: http://flattimeho.org.uk/media/thumbnails/Untitled.png
+  owner_picture: images/romain.jpg
+  name: Romain's home
+  summary: Nice flat in Piccadilly
+  pond: true
+  city: London, UK
+  wifi: false
+max:
+  owner_name: Max
+  picture: http://blogs-images.forbes.com/jimdobson/files/2015/08/la-fi-four-seasons-condos-20150821-1940x1212.jpg
+  owner_picture: images/max.jpg
+  name: Max's lad pad
+  summary: Nice flat in Brussels
+  pond: true
+  city: Brussels, Belgium
+  wifi: true
